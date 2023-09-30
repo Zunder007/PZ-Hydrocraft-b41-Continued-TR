@@ -1,0 +1,12 @@
+ItemName_FR = {
+	ItemName_Hydrocraft.HCRoadflare = "Signal de détresse",
+	ItemName_Hydrocraft.HCRoadflareon = "Signal de détresse",
+	ItemName_Hydrocraft.HCLaserpointer = "Pointeur laser",
+	ItemName_Hydrocraft.HCLaserpointeron = "Pointeur laser",
+	ItemName_Hydrocraft.HCGlowstickred = "Bâton lumineux rouge",
+	ItemName_Hydrocraft.HCGlowstickredon = "Bâton lumineux rouge",
+	ItemName_Hydrocraft.HCGlowstickblue = "Bâton lumineux bleu",
+	ItemName_Hydrocraft.HCGlowstickblueon = "Bâton lumineux bleu",
+	ItemName_Hydrocraft.HCGlowstickgreen = "Bâton lumineux vert",
+	ItemName_Hydrocraft.HCGlowstickgreenon = "Bâton lumineux vert",
+}
