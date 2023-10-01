@@ -2643,7 +2643,7 @@ Recipes_FR = {
 	Recipe_Craft_Taxidermy_Jackalope = "Empailler un chacal",
 
 /* HC_Tools - Recipes */
-	Recipe_Cut_Wrench = "Scier la double clé à molette",
+	Recipe_Cut_Wrench = "Scier la double clé plate",
 	Recipe_Make_Bow_Drill_Bow = "Faire un archet",
 	Recipe_Make_Fire_Bow_Drill = "Apprêter l'archet",
 	Recipe_Make_Flint_Tipped_Bow_Drill = "Ajouter un silex",
