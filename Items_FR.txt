@@ -266,8 +266,8 @@ Items_FR = {
 /* HC_Animals - Container */
     DisplayName_Pack_Donkey_(Female) = "Ânesse équipée",
     DisplayName_Pack_Donkey_(Male) = "Âne équipé",
-	DisplayName_Pack_Horse_with_Saddle_(Male) = "Cheval de bât avec selle",
-	DisplayName_Pack_Horse_with_Saddle_(Female) = "Jument de bât avec selle",
+    DisplayName_Pack_Horse_with_Saddle_(Male) = "Cheval de bât avec selle",
+    DisplayName_Pack_Horse_with_Saddle_(Female) = "Jument de bât avec selle",
     DisplayName_Wagon_with_Horses = "Chariot (attelés chevaux)",
     DisplayName_Covered_Wagon_with_Horses = "Chariot couvert (attelés chevaux)",
 
@@ -292,14 +292,14 @@ Items_FR = {
     DisplayName_Beehive_(Stage_1) = "Ruche (Base)",
     DisplayName_Beehive_(Stage_2) = "Ruche (1 Étage)",
     DisplayName_Beehive_(Stage_3) = "Ruche (2 Étages)",
-	DisplayName_Beehive_Anchored = "Ruche ancrée",
+    DisplayName_Beehive_Anchored = "Ruche ancrée",
     DisplayName_Beehive_with_Honey_(Stage_1) = "Ruche avec abeilles (Base)",
     DisplayName_Beehive_with_Honey_(Stage_2) = "Ruche avec abeilles (1 Étage)",
     DisplayName_Beehive_with_Honey_(Stage_3) = "Ruche avec abeilles (2 Étages)",
 
 /* HC_Armor */
 /* HC_Armor - Items */
-	DisplayName_Equip_Armor = "Armure équipée",
+    DisplayName_Equip_Armor = "Armure équipée",
 
 /* HC_Armor - Helmets */
     DisplayName_Hard_Hat = "Casque",
@@ -432,7 +432,7 @@ Items_FR = {
 
 /* HC_Auto */
     DisplayName_Air_Freshener = "Désodorisant",
-	DisplayName_Drivers_License = "Permis de conduire",
+    DisplayName_Drivers_License = "Permis de conduire",
     DisplayName_Motor_Oil = "Huile de moteur",
     DisplayName_Spark_Plug = "Bougie d'allumage",
     DisplayName_Air_Filter = "Filtre à air",
@@ -727,8 +727,13 @@ Items_FR = {
     DisplayName_Box_of_Things = "Carton de bazar",
 
 /* HC_Bugs */
+/* Erreur inconnue avec ces entrées là */
+/* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
+
     DisplayName_Bug_Net = "Filet à papillons",
     DisplayName_Bug_Jar = "Bocal à insecte",
+
+
     DisplayName_Jar_of_Fireflies = "Bocal de lucioles",
     DisplayName_Beetle = "Scarabée",
     DisplayName_Bollweevil = "Puceron",
@@ -3956,6 +3961,7 @@ Items_FR = {
 /* HC_Lights */
     DisplayName_Lava_Lamp = "Lampe à bulles",
     DisplayName_Lamp_Shade = "Abat-jour",
+
 /* Erreurs avec ces entrées là pour cause de noms identiques */
 /* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
 /*
@@ -3965,8 +3971,14 @@ Items_FR = {
 	DisplayName_Blue_Glowstick = "Bâton lumineux bleu",
 	DisplayName_Green_Glowstick = "Bâton lumineux vert",
 */
+
+/* Erreur inconnue avec ces entrées là */
+/* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
+
 	DisplayName_Empty_Lighter = "Briquet (vide)",
     DisplayName_Lighter_Fluid = "Gaz pour briquet",
+
+
     DisplayName_Small_Flashlight = "Petite lampe de poche",
     DisplayName_Dead_Small_Flashlight = "Petite lampe-torche (HS)",
     DisplayName_Small_Flashlight_with_Power = "Petite lampe-torche (OK)",
