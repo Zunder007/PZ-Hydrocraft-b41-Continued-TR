@@ -10,9 +10,15 @@ ItemName_FR = {
 	ItemName_Hydrocraft.HCGlowstickgreen = "Bâton lumineux vert",
 	ItemName_Hydrocraft.HCGlowstickgreenon = "Bâton lumineux vert",
 
+	ItemName_Hydrocraft.BoxOfThings = "Carton de bazar",
+
 	ItemName_Hydrocraft.HCBugnet = "Filet à papillons",
 	ItemName_Hydrocraft.HCBugjar = "Bocal à insecte",
 	ItemName_Hydrocraft.HCJarfireflies = "Bocal de lucioles",
+
+	ItemName_Hydrocraft.HCLavalamp = "Lampe à bulles",
+	ItemName_Hydrocraft.HCLampshade = "Abat-jour",
+
 	ItemName_Hydrocraft.HCLighterempty = "Briquet (vide)",
 	ItemName_Hydrocraft.HCLighterfluid = "Gaz pour briquet",
 }
