@@ -724,7 +724,11 @@ Items_FR = {
     DisplayName_Potassium_Permanganate = "Permanganate de potassium",
 
 /* HC_Box */
+/* Erreur inconnue avec ces entrées là */
+/* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
+/*
     DisplayName_Box_of_Things = "Carton de bazar",
+*/
 
 /* HC_Bugs */
 /* Erreur inconnue avec ces entrées là */
@@ -3959,8 +3963,12 @@ Items_FR = {
     DisplayName_Leather_Sand_bag = "Sac de frappe en cuir",
 
 /* HC_Lights */
+/* Erreur inconnue avec ces entrées là */
+/* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
+/*
     DisplayName_Lava_Lamp = "Lampe à bulles",
     DisplayName_Lamp_Shade = "Abat-jour",
+*/
 
 /* Erreurs avec ces entrées là pour cause de noms identiques */
 /* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
