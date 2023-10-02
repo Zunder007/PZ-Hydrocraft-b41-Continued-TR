@@ -729,12 +729,12 @@ Items_FR = {
 /* HC_Bugs */
 /* Erreur inconnue avec ces entrées là */
 /* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
-
+/*
     DisplayName_Bug_Net = "Filet à papillons",
     DisplayName_Bug_Jar = "Bocal à insecte",
-
-
     DisplayName_Jar_of_Fireflies = "Bocal de lucioles",
+*/
+
     DisplayName_Beetle = "Scarabée",
     DisplayName_Bollweevil = "Puceron",
     DisplayName_Ladybug = "Coccinelle",
@@ -3974,10 +3974,10 @@ Items_FR = {
 
 /* Erreur inconnue avec ces entrées là */
 /* Ces entrées sont traduites dans le fichier ItemName_FR.txt */
-
+/*
 	DisplayName_Empty_Lighter = "Briquet (vide)",
     DisplayName_Lighter_Fluid = "Gaz pour briquet",
-
+*/
 
     DisplayName_Small_Flashlight = "Petite lampe de poche",
     DisplayName_Dead_Small_Flashlight = "Petite lampe-torche (HS)",
