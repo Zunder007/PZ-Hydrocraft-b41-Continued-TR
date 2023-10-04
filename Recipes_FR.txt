@@ -456,7 +456,7 @@ Recipes_FR = {
 	Recipe_Put_Cheese_on_Rack = "Mettre le fromage dessus",
 	Recipe_Remove_Cheese_from_Rack = "Enlever le fromage",
     Recipe_Cut_Cheese_Wheel = "Découper la meule de fromage",
-	Recipe_Prepare_Cheese_Cloth-Wrapped_Wax = "Préparer de la cire enveloppée",
+	Recipe_Prepare_Cheese_Cloth-Wrapped_Wax = "Préparer de la cire d'enrobage",
 	Recipe_Prepare_Pot_of_Refined_Wax = "Préparer de la cire raffinée",
 	Recipe_Process_Refined_Wax = "Transformer la cire raffinée",
 	Recipe_Prepare_Pot_of_Melted_Refined_Wax = "Préparer de la cire fondue rafinée",
@@ -3046,8 +3046,14 @@ Recipes_FR = {
 	Recipe_Empty_Wooden_Bucket_with_Grape_Juice = "Vider le seau en bois rempli de jus de raisin",
 	Recipe_Empty_Wooden_Bucket_with_White_Grape_Juice = "Vider le seau en bois rempli de jus de raisin blanc",
 
-
-
+/* Ajout via rapport du fichier translationProblems.txt */
+	Recipe_Build_Selfmade_Solar_Panel = "Construire un panneau solaire artisanal",
+	Recipe_Create_Wine_Glasses = "Fabriquer des verres à vin",
+	Recipe_Make_Bloody_Mary_Mixer = "Faire un mélange Bloody Mary",
+	Recipe_Make_Creamy_Mashed_Potatoes = "Faire une purée de pommes de terre crémeuse",
+	Recipe_Make_Plain_Mashed_Potatoes = "Faire de la purée de pommes de terre nature",
+	Recipe_Prepare_Barrel_of_Lemon_Mash = "Préparer un baril de purée de citron",
+	Recipe_Prepare_Cheese_Cloth-wrapped_Wax = "Préparer de la cire d'enrobage",
 
 
 /*
@@ -3803,7 +3809,6 @@ Recipes_FR = {
 	Recipe_Plant_Zucchini = "Planter des courgettes",
     Recipe_Plant_Zucchini_Seeds = "Planter les graines de Courgette",
 	Recipe_Pour_Glasses_of_Whiskey = "Servir des verres de whisky",
-	Recipe_Prepare_Chesse_Cloth-Wrapped_Wax = "Préparer de la cire d'enrobage",
 	Recipe_Prepare_Pot_with_Bandage = "Préparer une marmite de bandages",
 	Recipe_Prepare_Pot_with_Ripped_Sheets = "Préparer une marmite de tissus",
 	Recipe_Put_Corpse_on_Dissection_Table = "Mettre le cadavre sur la table",
