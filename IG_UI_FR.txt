@@ -108,4 +108,5 @@ IGUI_FR = {
 	IGUI_CraftCategory_Armor = "Armure",
 	IGUI_CraftCategory_Firecraft = "Maîtrise du feu",
 	IGUI_CraftCategory_Research = "Recherche",
+	IGUI_CraftCategory_Survival = "Survie",
 }
