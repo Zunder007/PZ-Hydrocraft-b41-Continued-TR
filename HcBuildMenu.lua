@@ -44,7 +44,7 @@ Hydrocraft.RanchingOptionBeehive = function(player, HcSubMenu)
 	option = HcSubMenu:addOption("Ruche", nil, function() Hydrocraft.onBuildBeehive(player)  end);
 	tooltip = Hydrocraft.toolTipcheck(option)
 	tooltip:setName("Ruche")
-	tooltip.description = "Une ruche pour le miel"
+	tooltip.description = "<RGB:1,1,1>Une ruche pour le miel et la cire"
 	local inv = getSpecificPlayer(player):getInventory()
 	local beehive_count = inv:getItemCount("Hydrocraft.HCBeehive3")
 	local rgb = ""
