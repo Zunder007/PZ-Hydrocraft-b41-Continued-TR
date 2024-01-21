@@ -27,4 +27,5 @@ Farming_FR = {
 	Farming_Fruitasseed = "Vous pouvez utiliser un fruit en guise de graine.",
 	Farming_Frozen = "Le plant est en train de geler et n'hydratera pas.",
 	Farming_PlantWithFruit = "Plant avec des fruits",
+	Farming_Sweetpotato = "Patates douces",
 }
