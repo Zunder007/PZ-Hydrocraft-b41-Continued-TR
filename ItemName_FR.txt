@@ -4784,6 +4784,7 @@ ItemName_FR = {
 	ItemName_Hydrocraft.HCSportsmagazine = "Magazine de sport",
 	ItemName_Hydrocraft.HCSportsmagazine2 = "Magazine de sport",
 	ItemName_Hydrocraft.HCSprucebough = "Branche d'épinette",
+	ItemName_Hydrocraft.HCSquashsummer = "Courge d'été",
 	ItemName_Hydrocraft.HCSquashsummerseeds = "Graines de courge d'été",
 	ItemName_Hydrocraft.HCSquashsummerseedspacket = "Paquet de graines de courge d'été",
 	ItemName_Hydrocraft.HCSquid = "Calamar",
